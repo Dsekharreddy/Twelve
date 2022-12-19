@@ -162,7 +162,7 @@
         <ShipAddress>2732 Baker Blvd.</ShipAddress>
         <ShipCity>Eugene</ShipCity>
         <ShipRegion>OR</ShipRegion>
-        <ShipPostalCode>97403</ShipPostalCode>
+        <ShipPostalCode>974</ShipPostalCode>
         <ShipCountry>USA</ShipCountry>
       </ShipInfo>
     </Order>
@@ -290,7 +290,7 @@
         <ShipCity>Elgin</ShipCity>
         <ShipRegion>OR</ShipRegion>
         <ShipPostalCode>97827</ShipPostalCode>
-        <ShipCountry>USA</ShipCountry>
+        <ShipCountry>U</ShipCountry>
       </ShipInfo>
     </Order>
     <Order>
